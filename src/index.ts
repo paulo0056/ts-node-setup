@@ -1,1 +1,2 @@
-const message = "oi";
+const message = "oi!";
+console.log(message);
